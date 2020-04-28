@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501079273883",
+    "firebase_url": "https://flash-chat-cd109.firebaseio.com",
+    "project_id": "flash-chat-cd109",
+    "storage_bucket": "flash-chat-cd109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501079273883:android:964a130a3800369a0ef13e",
+        "android_client_info": {
+          "package_name": "MohithTK.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501079273883-dlvhm3pv6bpdssi7mjojstqb4q3gnaqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGjGa4VliIMnGjkMl1ZbK5qH2UfUK1Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501079273883-dlvhm3pv6bpdssi7mjojstqb4q3gnaqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
